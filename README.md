@@ -8,7 +8,7 @@ website in different threads
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install bs4.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install bs4 module.
 
 ```bash
 pip install bs4
